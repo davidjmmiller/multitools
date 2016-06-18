@@ -1,0 +1,21 @@
+{
+  "name": "multitools",
+  "description": "Laravel/AngularJS application",
+  "main": "public/index.php",
+  "authors": [
+    "David M. Miller <daxdoxsi@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/davidjmmiller/multitools",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
